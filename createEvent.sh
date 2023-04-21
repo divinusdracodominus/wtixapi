@@ -1,0 +1,1 @@
+curl -d '{"eventname":"test name"}' -X POST -H "Content-Type: application/json" localhost:3000/events
